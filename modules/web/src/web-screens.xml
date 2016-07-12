@@ -3,4 +3,6 @@
     <include file="/screens.xml"/>
     <screen id="screen"
             template="com/company/vaadincomponent/web/screens/screen.xml"/>
+    <screen id="mainWindow"
+            template="com/company/vaadincomponent/web/mainwindow/ext-mainwindow.xml"/>
 </screen-config>
